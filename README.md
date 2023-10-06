@@ -6,6 +6,7 @@ Tegime selle mängu, sest tahtsime proovida midagi muud mis ei oleks veebilehe t
 # Meeskond
  - Sander-Aleks Mander 
  - Evert Kärp
+ - Genro Umber
 
 # Tööriistad mida kasutasime
  - C++
