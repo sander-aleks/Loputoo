@@ -7,9 +7,9 @@ Plaan oli teha mäng kus sa võitled koletistega ja saad upgrade et pidada vastu
 Mäng toimub aastal 2026 kus kogu maailm on rikutud, teadlased avasid portaali tulevikku lootuses et saaks parandada kliima soojenemist tulevikust saadud asjadega, kuid nad ei arvanud et võivad avada portaali täiesti teise universumi kust tulid välja koletised kes hakkasid ükshaaval riike maatasa tegema. Alles jäi väheseid inimesi kes võitlevad elu eest, sina oled üks nendest, kas suudad ellu jääda?
 
 # Meeskond
-Sander-Aleks Mander 
-Evert Kärp
+- Sander-Aleks Mander 
+- Evert Kärp
 
 # Tööriistad mida kasutasime
-C++
-Unreal Engine
+- C++
+- Unreal Engine
