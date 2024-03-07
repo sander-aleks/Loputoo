@@ -11,3 +11,11 @@ Tegime selle mängu, sest tahtsime proovida midagi muud mis ei oleks veebilehe t
 # Tööriistad mida kasutasime
  - C++
  - Unreal Engine
+
+
+
+
+- eesmärk aja peale, madalam aeg = punktid
+- reeglid
+- tagasiside xp, health
+- vabatahtlik 
