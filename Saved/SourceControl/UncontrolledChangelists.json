@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/gendr/Downloads/Loputoo-evert/Loputoo-evert/Content/Maps/Tileset_TileMap.uasset",
+				"C:/Users/gendr/Downloads/Loputoo-evert/Loputoo-evert/Content/Maps/Dungeon_Tile_Set_TileSet.uasset",
+				"C:/Users/gendr/Downloads/Loputoo-evert/Loputoo-evert/Content/Maps/Dungeon_map.uasset",
+				"C:/Users/gendr/Downloads/Loputoo-evert/Loputoo-evert/Content/Maps/MAP-Main.umap",
+				"C:/Users/gendr/Downloads/Loputoo-evert/Loputoo-evert/Content/Assets/Textures/Tileset_TileSet.uasset",
+				"C:/Users/gendr/Downloads/Loputoo-evert/Loputoo-evert/Content/Assets/Textures/Tileset.uasset",
+				"C:/Users/gendr/Downloads/Loputoo-evert/Loputoo-evert/Content/Assets/Textures/Background.uasset",
+				"C:/Users/gendr/Downloads/Loputoo-evert/Loputoo-evert/Content/Assets/Textures/Background_TileSet.uasset",
+				"C:/Users/gendr/Downloads/Loputoo-evert/Loputoo-evert/Content/Maps/Dungeon_Tile_Set.uasset",
+				"C:/Users/gendr/Downloads/Loputoo-evert/Loputoo-evert/Content/Assets/Bringer-Of-Death/NoneOutlinedRat/rat-attack.uasset",
+				"C:/Users/gendr/Downloads/Loputoo-evert/Loputoo-evert/Content/Assets/Bringer-Of-Death/OutlinedRat/rat-attack-outline.uasset",
+				"C:/Users/gendr/Downloads/Loputoo-evert/Loputoo-evert/Content/Assets/Bringer-Of-Death/OutlinedRat/rat-attack-outline_Flipbook.uasset",
+				"C:/Users/gendr/Downloads/Loputoo-evert/Loputoo-evert/Content/Assets/Bringer-Of-Death/OutlinedRat/rat-attack-outline_Sprite.uasset",
+				"C:/Users/gendr/Downloads/Loputoo-evert/Loputoo-evert/Content/Assets/Bringer-Of-Death/NoneOutlinedRat/rat-death.uasset",
+				"C:/Users/gendr/Downloads/Loputoo-evert/Loputoo-evert/Content/Assets/Bringer-Of-Death/OutlinedRat/rat-death-outline.uasset",
+				"C:/Users/gendr/Downloads/Loputoo-evert/Loputoo-evert/Content/Assets/Bringer-Of-Death/OutlinedRat/rat-death-outline_Sprite.uasset",
+				"C:/Users/gendr/Downloads/Loputoo-evert/Loputoo-evert/Content/Assets/Bringer-Of-Death/NoneOutlinedRat/rat-hurt.uasset",
+				"C:/Users/gendr/Downloads/Loputoo-evert/Loputoo-evert/Content/Assets/Bringer-Of-Death/OutlinedRat/rat-hurt-outline.uasset",
+				"C:/Users/gendr/Downloads/Loputoo-evert/Loputoo-evert/Content/Assets/Bringer-Of-Death/OutlinedRat/rat-hurt-outline_Sprite.uasset",
+				"C:/Users/gendr/Downloads/Loputoo-evert/Loputoo-evert/Content/Assets/Bringer-Of-Death/NoneOutlinedRat/rat-idle.uasset",
+				"C:/Users/gendr/Downloads/Loputoo-evert/Loputoo-evert/Content/Assets/Bringer-Of-Death/OutlinedRat/rat-idle-outline.uasset",
+				"C:/Users/gendr/Downloads/Loputoo-evert/Loputoo-evert/Content/Assets/Bringer-Of-Death/OutlinedRat/rat-idle-outline_Sprite.uasset",
+				"C:/Users/gendr/Downloads/Loputoo-evert/Loputoo-evert/Content/Assets/Bringer-Of-Death/NoneOutlinedRat/rat-run.uasset",
+				"C:/Users/gendr/Downloads/Loputoo-evert/Loputoo-evert/Content/Assets/Bringer-Of-Death/OutlinedRat/rat-run-outline.uasset",
+				"C:/Users/gendr/Downloads/Loputoo-evert/Loputoo-evert/Content/Assets/Bringer-Of-Death/OutlinedRat/rat-run-outline_Sprite.uasset"
+			]
+		}
+	]
+}
